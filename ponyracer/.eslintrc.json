@@ -8,7 +8,7 @@
     {
       "files": ["*.ts"],
       "parserOptions": {
-        "project": ["ponyracer/tsconfig.json"],
+        "project": ["tsconfig.json"],
         "createDefaultProgram": true
       },
       "extends": [
