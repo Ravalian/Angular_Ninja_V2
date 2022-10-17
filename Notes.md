@@ -12,3 +12,4 @@ Bruges til at anvende angular pipes (som JsonPipe ( {{"test | json"}}))
 Hvornår vil slice være brugbart? Vil antage at det er bedre at lave en liste som kun indeholder de inforamtioner man ønsker at vise 
 Slice kan bruges med en dynamiske liste, hvor en bruger selv bestemmer hvor mange elementer de ønsker!!!
 
+
