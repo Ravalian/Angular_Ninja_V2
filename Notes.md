@@ -13,3 +13,6 @@ Hvornår vil slice være brugbart? Vil antage at det er bedre at lave en liste s
 Slice kan bruges med en dynamiske liste, hvor en bruger selv bestemmer hvor mange elementer de ønsker!!!
 
 
+- Chapter 13 + 14
+Det er lidt sjovt hvordan der bliver snakket meget om at have flere instancer af den samme service
+Er det noget man normalt ser at man gerne vil have?
