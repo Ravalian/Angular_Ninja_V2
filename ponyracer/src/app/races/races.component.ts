@@ -13,6 +13,6 @@ export class RacesComponent implements OnInit {
   races: Array<RaceModel> = [];
 
   ngOnInit(): void {
-    this.races = this.raceService.list();
+    this.raceService.list().subscribe(races => (this.races = races));
   }
 }
